@@ -8,3 +8,8 @@
 $ wasm-pack build
 $ cd www && npm i && npm start
 ```
+
+# Demo
+こちらで完成物を見れます。
+
+https://wasm-game-of-life-sample.netlify.app/
