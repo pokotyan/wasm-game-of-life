@@ -1,0 +1,10 @@
+{
+  "name": "wasm-game-of-life",
+  "version": "1.0.0",
+  "main": "www/index.js",
+  "scripts": {
+    "build": "cd www && npm i && npm run build"
+  },
+  "author": "",
+  "license": "ISC"
+}
